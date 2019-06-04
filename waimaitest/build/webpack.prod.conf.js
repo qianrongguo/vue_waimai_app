@@ -47,12 +47,9 @@ const webpackConfig = merge(baseWebpackConfig, {
   },
   devtool: config.build.productionSourceMap ? config.build.devtool : false,
   output: {
-    // path: config.build.assetsRoot,
-    // filename: utils.assetsPath('js/[name].[chunkhash].js'),
-    // chunkFilename: utils.assetsPath('js/[id].[chunkhash].js')
-    filename: '[name].bundle.js',
-    path: path.resolve(__dirname, 'dist'),
-    chunkFilename: '[name].bundle.js',
+    path: config.build.assetsRoot,
+    filename: utils.assetsPath('js/[name].[chunkhash].js'),//文件格式，文件名.文件哈希
+    chunkFilename: utils.assetsPath('js/[name].[chunkhash].js')//文件切割后的文件名称。这里的name对应的就是路由中引入文件时候的webpackChunkName
   },
   plugins: [
     // http://vuejs.github.io/vue-loader/en/workflow/production.html
@@ -109,7 +106,8 @@ const webpackConfig = merge(baseWebpackConfig, {
       // necessary to consistently work with multiple chunks via CommonsChunkPlugin
       chunksSortMode: 'dependency'
     }),
-    new CleanWebpackPlugin(['dist']),
+    // new CleanWebpackPlugin(['dist']),
+    new webpack.NamedChunksPlugin(),
     // keep module.id stable when vendor modules does not change
     new webpack.HashedModuleIdsPlugin(),
     // enable scope hoisting

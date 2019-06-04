@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b262a0-54d3-4be2-9230-68a280f58894" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/waimaitest/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/waimaitest/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/waimaitest/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/waimaitest/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/waimaitest/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/waimaitest/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/waimaitest/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/waimaitest/src/router/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/waimaitest/src/router/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-443">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="334">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#15#36#0" expanded="true" />
@@ -33,11 +36,13 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/waimaitest/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-50" />
+              <first_editor relative-caret-position="270">
+                <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -48,15 +53,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/waimaitest/build/utils.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="99" column="3" selection-start-line="99" selection-start-column="3" selection-end-line="99" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -73,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/waimaitest/build/webpack.base.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+            <state relative-caret-position="165">
+              <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -82,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/waimaitest/build/webpack.dev.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
+            <state relative-caret-position="229">
               <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
             </state>
           </provider>
@@ -91,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/waimaitest/build/webpack.prod.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="127" column="9" selection-start-line="127" selection-start-column="9" selection-end-line="127" selection-end-column="9" />
+            <state relative-caret-position="916">
+              <caret line="91" column="54" lean-forward="true" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -100,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/waimaitest/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="225">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -171,7 +167,6 @@
         <option value="$PROJECT_DIR$/waimaitest/src/store/index.js" />
         <option value="$PROJECT_DIR$/waimaitest/.eslintrc.js" />
         <option value="$PROJECT_DIR$/waimaitest/src/api/ajax.js" />
-        <option value="$PROJECT_DIR$/waimaitest/config/index.js" />
         <option value="$PROJECT_DIR$/waimaitest/src/pages/Msite/images/msite_back.svg" />
         <option value="$PROJECT_DIR$/waimaitest/src/components/ShopList/images/shop_back.svg" />
         <option value="$PROJECT_DIR$/waimaitest/src/components/Star/Star.vue" />
@@ -190,7 +185,6 @@
         <option value="$PROJECT_DIR$/waimaitest/package.json" />
         <option value="$PROJECT_DIR$/waimaitest/build/utils.js" />
         <option value="$PROJECT_DIR$/waimaitest/src/App.vue" />
-        <option value="$PROJECT_DIR$/waimaitest/build/webpack.base.conf.js" />
         <option value="$PROJECT_DIR$/waimaitest/src/store/state.js" />
         <option value="$PROJECT_DIR$/waimaitest/src/components/CartControl/CartControl.vue" />
         <option value="$PROJECT_DIR$/waimaitest/src/components/Food/Food.vue" />
@@ -208,16 +202,18 @@
         <option value="$PROJECT_DIR$/waimaitest/src/filters/index.js" />
         <option value="$PROJECT_DIR$/waimaitest/src/pages/Shop/Shop.vue" />
         <option value="$PROJECT_DIR$/waimaitest/src/main.js" />
-        <option value="$PROJECT_DIR$/waimaitest/build/webpack.prod.conf.js" />
         <option value="$PROJECT_DIR$/waimaitest/.babelrc" />
+        <option value="$PROJECT_DIR$/waimaitest/config/index.js" />
+        <option value="$PROJECT_DIR$/waimaitest/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/waimaitest/build/webpack.prod.conf.js" />
         <option value="$PROJECT_DIR$/waimaitest/src/router/index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="170" />
-    <option name="y" value="67" />
-    <option name="width" value="1009" />
+    <option name="x" value="182" />
+    <option name="y" value="23" />
+    <option name="width" value="1122" />
     <option name="height" value="700" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -253,6 +249,12 @@
               <item name="waimai" type="b2602c69:ProjectViewProjectNode" />
               <item name="waimai" type="462c0819:PsiDirectoryNode" />
               <item name="waimaitest" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="waimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="waimai" type="462c0819:PsiDirectoryNode" />
+              <item name="waimaitest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -261,6 +263,13 @@
               <item name="waimaitest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="waimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="waimai" type="462c0819:PsiDirectoryNode" />
+              <item name="waimaitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,17 +344,18 @@
       <workItem from="1559549974868" duration="5322000" />
       <workItem from="1559558075119" duration="5595000" />
       <workItem from="1559577223083" duration="601000" />
-      <workItem from="1559607503160" duration="10209000" />
+      <workItem from="1559607503160" duration="12667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194931000" />
+    <option name="totallyTimeSpent" value="197389000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="170" y="67" width="1009" height="700" extended-state="0" />
+    <frame x="182" y="23" width="1122" height="700" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27327934" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2325159" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -357,7 +367,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3125" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3125" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.329927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -389,13 +399,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gshop-server_final/node_modules/mongodb/lib/utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816">
-          <caret line="131" column="16" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gshop-server_final/db/models.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -729,24 +732,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/waimaitest/build/webpack.dev.conf.js">
+    <entry file="file://$PROJECT_DIR$/waimaitest/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/waimaitest/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/waimaitest/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/waimaitest/build/webpack.prod.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="127" column="9" selection-start-line="127" selection-start-column="9" selection-end-line="127" selection-end-column="9" />
+    <entry file="file://$PROJECT_DIR$/waimaitest/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -757,39 +759,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/waimaitest/package.json">
+    <entry file="file://$PROJECT_DIR$/waimaitest/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="-179">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/waimaitest/.babelrc">
+    <entry file="file://$PROJECT_DIR$/waimaitest/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waimaitest/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waimaitest/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waimaitest/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="916">
+          <caret line="91" column="54" lean-forward="true" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/waimaitest/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-443">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="334">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#15#36#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/waimaitest/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/waimaitest/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-50" />
-          <second_editor />
         </state>
       </provider>
     </entry>
