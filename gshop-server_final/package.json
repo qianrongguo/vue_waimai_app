@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "express-session": "^1.15.6",
     "js-base64": "^2.4.3",
-    "moment": "^2.21.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.5.11",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.1",
